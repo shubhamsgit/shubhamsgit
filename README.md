@@ -1,7 +1,7 @@
 ## Hello :wave: Devs, 
 
 <p align="center">
-  <img src="https://github.com/amtheshubham/amtheshubham/blob/main/Play-Chrome-Dinosaur-Game.gif" width=100>
+  <img src="https://github.com/amtheshubham/amtheshubham/blob/main/Play-Chrome-Dinosaur-Game.gif" width=1000>
   <br><br></p><br>
 
 <!--
