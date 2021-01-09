@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:-->
 
-<h1 style="color:blue;font-size:5px;">🔭 I’m currently learning</h1> <br>
+<h1 style="color:blue;font-size:5px;">🔭 I’m currently learning</h1>
 <img src="Kotlin_logo_wordmark.png" width=100>
 
 <!--- 🔭 I’m currently working on ...
