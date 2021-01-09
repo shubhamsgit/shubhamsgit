@@ -1,4 +1,8 @@
-### Hi there 👋
+## Heyo :wave: Devs, 
+
+<p align="center">
+  <img src="https://github.com/amtheshubham/amtheshubham/blob/main/github.gif?raw=true" width=100>
+  <br><br>
 
 <!--
 **amtheshubham/amtheshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
