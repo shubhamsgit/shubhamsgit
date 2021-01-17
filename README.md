@@ -4,7 +4,7 @@
    <img src="https://github.com/amtheshubham/amtheshubham/blob/main/Play-Chrome-Dinosaur-Game.gif" width=800>
   <br><br>
   <samp>
-    I'm currently a second year CSE student at <a href="http://www.vsrmist.edu.in/">@SRMIST :school: </a> and aspiring software developer:computer:. Interested in working on Open Source Projects. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming
+    I'm currently a second year CSE student at <a href="http://www.srmist.edu.in/">@SRMIST :school: </a> and aspiring software developer:computer:. Interested in working on Open Source Projects. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming
   </samp>
 </p>
 
