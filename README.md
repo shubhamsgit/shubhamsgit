@@ -28,6 +28,7 @@ Here are some ideas to get you started:-->
 <p>App Developer at Utkal Merchandise</p>
 <p>App Developer at Helpworx Organisation</p>
 
+### Codechef rating - 1500+
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
