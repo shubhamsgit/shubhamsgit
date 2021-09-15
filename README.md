@@ -33,7 +33,7 @@ Here are some ideas to get you started:-->
 <li>App Developer at Helpworx Organisation</li>
 </ul>
 
-### Codechef rating - 1500+
+### Codechef rating - 1600+
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
