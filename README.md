@@ -1,3 +1,4 @@
+<!--
 ## Hello :wave: Devs, 
   
   <p align="center">
@@ -45,3 +46,4 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
+-->
