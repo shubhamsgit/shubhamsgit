@@ -9,15 +9,6 @@
   </samp>
 </p>
 
-### &#x1f4c8; GitHub Stats
-<!--
-<a href="https://github.com/shubhamsgit/shubhamsgit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsgit&langs_count=3" />
-</a>
-<a href="https://github.com/shubhamsgit/shubhamsgit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsgit&show_icons=true" alt="Shubham's GitHub Stats" />
-</a>
--->
 
 |<img src="https://github-readme-stats.vercel.app/api?username=shubhamsgit&&show_icons=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsgit"/>|
 |---|---|
